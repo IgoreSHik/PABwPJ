@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055286</millis>
+  <sequence>36</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Zako?czenie getBalance</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055291</millis>
+  <sequence>37</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>INFO</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Utworzenie instancji banku</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055295</millis>
+  <sequence>38</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie  createAccount</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055298</millis>
+  <sequence>39</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Zako?czenie createAccount</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055298</millis>
+  <sequence>40</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie deposit</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055299</millis>
+  <sequence>41</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Zako?czenie deposit</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055299</millis>
+  <sequence>42</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie  createAccount</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055300</millis>
+  <sequence>43</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Zako?czenie createAccount</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055301</millis>
+  <sequence>44</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>transfer</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie transfer</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055302</millis>
+  <sequence>45</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie withdraw</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055304</millis>
+  <sequence>46</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Zako?czenie withdraw</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055305</millis>
+  <sequence>47</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie deposit</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055306</millis>
+  <sequence>48</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Zako?czenie deposit</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055308</millis>
+  <sequence>49</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>transfer</method>
+  <thread>1</thread>
+  <message>Zako?czenie transfer</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055310</millis>
+  <sequence>50</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie getBalance</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055311</millis>
+  <sequence>51</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Zako?czenie getBalance</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055314</millis>
+  <sequence>52</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>INFO</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Utworzenie instancji banku</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055318</millis>
+  <sequence>53</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie  createAccount</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055322</millis>
+  <sequence>54</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Zako?czenie createAccount</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055323</millis>
+  <sequence>55</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie deposit</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055324</millis>
+  <sequence>56</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Zako?czenie deposit</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055325</millis>
+  <sequence>57</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie withdraw</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055326</millis>
+  <sequence>58</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Zako?czenie withdraw</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055326</millis>
+  <sequence>59</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie getBalance</message>
+</record>
+<record>
+  <date>2022-04-02T18:30:55</date>
+  <millis>1648917055327</millis>
+  <sequence>60</sequence>
+  <logger>PABwPJZadanie1.BankImpl</logger>
+  <level>FINE</level>
+  <class>PABwPJZadanie1.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Zako?czenie getBalance</message>
+</record>
+</log>

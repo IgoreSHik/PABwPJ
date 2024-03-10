@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590263</millis>
+  <sequence>43</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>transfer</method>
+  <thread>1</thread>
+  <message>Zako?czenie transfer</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590271</millis>
+  <sequence>44</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie getBalance</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590278</millis>
+  <sequence>45</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>INFO</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Utworzenie instancji banku</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590280</millis>
+  <sequence>46</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie  createAccount</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590282</millis>
+  <sequence>47</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Zako?czenie createAccount</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590283</millis>
+  <sequence>48</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie deposit</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590285</millis>
+  <sequence>49</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Zako?czenie deposit</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590285</millis>
+  <sequence>50</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie  createAccount</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590287</millis>
+  <sequence>51</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Zako?czenie createAccount</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590287</millis>
+  <sequence>52</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>transfer</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie transfer</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590288</millis>
+  <sequence>53</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie withdraw</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590291</millis>
+  <sequence>54</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Zako?czenie withdraw</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590291</millis>
+  <sequence>55</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie deposit</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590293</millis>
+  <sequence>56</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Zako?czenie deposit</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590294</millis>
+  <sequence>57</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>transfer</method>
+  <thread>1</thread>
+  <message>Zako?czenie transfer</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590294</millis>
+  <sequence>58</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie getBalance</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590299</millis>
+  <sequence>59</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>INFO</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>Utworzenie instancji banku</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1251" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590301</millis>
+  <sequence>60</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie  createAccount</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590304</millis>
+  <sequence>61</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>createAccount</method>
+  <thread>1</thread>
+  <message>Zako?czenie createAccount</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590305</millis>
+  <sequence>62</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie deposit</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590307</millis>
+  <sequence>63</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>deposit</method>
+  <thread>1</thread>
+  <message>Zako?czenie deposit</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590307</millis>
+  <sequence>64</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie withdraw</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590309</millis>
+  <sequence>65</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>withdraw</method>
+  <thread>1</thread>
+  <message>Zako?czenie withdraw</message>
+</record>
+<record>
+  <date>2022-06-12T07:09:50</date>
+  <millis>1655010590309</millis>
+  <sequence>66</sequence>
+  <logger>Zadanie3.BankImpl</logger>
+  <level>FINE</level>
+  <class>Zadanie3.BankImpl</class>
+  <method>getBalance</method>
+  <thread>1</thread>
+  <message>Rozpocz?cie getBalance</message>
+</record>
+</log>
